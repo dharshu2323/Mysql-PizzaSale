@@ -1,5 +1,8 @@
 # Mysql-PizzaSale
 
+Practised SQL command in Mysql and solved the below questions with varoius queries.
+
+
 Basic:
 Retrieve the total number of orders placed.
 Calculate the total revenue generated from pizza sales.
@@ -19,3 +22,7 @@ Advanced:
 Calculate the percentage contribution of each pizza type to total revenue.
 Analyze the cumulative revenue generated over time.
 Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+
+![sql](https://github.com/user-attachments/assets/aaf4d798-7a4f-4bf5-99ab-0e2b9f2dc4c8)
+
+
